@@ -1,0 +1,49 @@
+--- To-Do List Menu ---
+1. View Tasks
+2. Add Task
+3. Remove Task
+4. Exit
+Enter your choice (1-4): 1
+
+No tasks found.
+
+--- To-Do List Menu ---
+1. View Tasks
+2. Add Task
+3. Remove Task
+4. Exit
+Enter your choice (1-4): 2
+Enter the task: Buy groceries
+Task added.
+
+--- To-Do List Menu ---
+1. View Tasks
+2. Add Task
+3. Remove Task
+4. Exit
+Enter your choice (1-4): 1
+
+Your Tasks:
+1. Buy groceries
+
+--- To-Do List Menu ---
+1. View Tasks
+2. Add Task
+3. Remove Task
+4. Exit
+Enter your choice (1-4): 3
+
+Your Tasks:
+1. Buy groceries
+Enter the task number to remove: 1
+Removed task: Buy groceries
+
+--- To-Do List Menu ---
+1. View Tasks
+2. Add Task
+3. Remove Task
+4. Exit
+Enter your choice (1-4): 4
+Goodbye!
+
+
